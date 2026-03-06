@@ -1,8 +1,8 @@
 {
   "smtp_server": "smtp.gmail.com",
   "smtp_port": 587,
-  "username": "ваш.email@gmail.com",
+  "username": "evyuritsin1986@gmail.com",
   "password": "ваш-пароль-или-app-пароль",
   "use_tls": true,
-  "default_from": "ваш.email@gmail.com"
+  "default_from": "evyuritsin1986@gmail.com"
 }
